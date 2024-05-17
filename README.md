@@ -9,6 +9,6 @@ Thành viên nhóm:
 		Nguyễn Văn Hữu MSV:21021325
 
 Nhóm tìm hiểu về Inference in First-Order Logic và Logical Reasoning Systems 
-Link bao gồm báo cáo cảu nhóm về 2 đề tài trên và chương trình suy diễn lùi.
+Link bao gồm báo cáo của nhóm về 2 đề tài trên và chương trình suy diễn lùi.
 
 Link Canva thuyết trinh của nhóm: https://www.canva.com/design/DAGFH116fbE/UucOcZ7LCksSpH8UXby1HQ/edit
